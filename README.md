@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello there!
 
-<!--
-**SohamBEGINS/SohamBEGINS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Soham Ganguly** – a relentless problem-solver on a quest to master the art of algorithms, systems thinking, and technical elegance.
 
-Here are some ideas to get you started:
+🧠 **Core Philosophy**  
+> "Every bug is an invitation to go deeper—into logic, architecture, and the nature of problem-solving itself."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌌 **Beyond Code:**  
+Curious about how foundational mathematics, systems thinking, and generative models intersect with human reasoning. Philosophy meets function.
+
+📈 **Current Projects:**
+- Early Detection of Dementia And Alzheimer's
+- SimuCode : An Autonomous Coding Interview Platform  
+
+🔗 Let’s connect if you're:
+- Into thought-provoking tech conversations
+- Passionate about refining workflows
+- Curious about blending deep learning with first principles
+
+🗺️ Based in Jamshedpur, India | 🌐 Building mindsets as much as models
