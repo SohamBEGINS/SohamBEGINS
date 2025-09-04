@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Soham Ganguly  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1ABC9C&center=false&vCenter=false&width=650&lines=Relentless+Problem+Solver;Algorithms+%7C+Systems+Thinking+%7C+AI;Building+Mindsets+as+Much+as+Models)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1ABC9C&center=false&vCenter=false&width=650&lines=Data+Science;Algorithms+%7C+Machine+Learning+%7C+AI;Building+Mindsets+as+Much+as+Models)](https://git.io/typing-svg)  
 
 🚀 Passionate about **algorithms, systems thinking, and technical elegance**  
 🧠 Belief: *“Every bug is an invitation to go deeper.”*  
