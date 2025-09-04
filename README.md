@@ -31,17 +31,18 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ---
-
-## 📊 GitHub Stats  
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamganguly&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=sohamganguly&theme=tokyonight&hide_border=false)  
-
----
-
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-ganguly)  
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sohamganguly)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamganguly@example.com)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sohamganguly336">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://peerlist.io/soiamcoding">
+    <img src="https://img.shields.io/badge/Peerlist-1B1F23?style=for-the-badge&logo=peerlist&logoColor=white" />
+  </a>
+</p>  
+
 
 ---
 
