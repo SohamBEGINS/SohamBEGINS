@@ -15,9 +15,8 @@
 ---
 
 ## 🌌 Interests  
-- Algorithms & System Design  
-- Generative Models & Human Reasoning  
-- Philosophy × AI  
+- Data Science & Machine Learning Operations 
+- Generative Models & Human Reasoning    
 
 ---
 
