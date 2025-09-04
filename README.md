@@ -14,7 +14,7 @@ Early Detection of Dementia And Alzheimer's
 
 SimuCode : An Autonomous Coding Interview Platform
 
-VerbAug (Ongoing) – A verbalised data augmentation platform tackling dataset scarcity through natural language synthesis and multilingual generation.
+Verbalized Movie Recommender System (Ongoing) : A movie recommendation system that uses the Verbalized Machine Learning (VML) framework to generate and optimize human-readable rules for transparent and interpretable recommendations.
 
 🔗 Let’s connect if you're:
 
