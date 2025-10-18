@@ -9,8 +9,7 @@
 
 ## 🔭 Current Projects  
 - 🧪 **Early Detection of Dementia & Alzheimer’s** – ML for healthcare  
-- 🤖 **SimuCode** – Autonomous coding interview simulator  
-- 🎬 **Verbalized Movie Recommender** – Transparent, interpretable recommendations with VML  
+- 🤖 **SimuCode** – Autonomous coding interview simulator   
 
 ---
 
