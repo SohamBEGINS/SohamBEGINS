@@ -8,8 +8,8 @@
 ---
 
 ## 🔭 Current Projects  
-- 🧪 **Early Detection of Dementia & Alzheimer’s** – ML for healthcare  
-- 🤖 **SimuCode** – Autonomous coding interview simulator   
+- 🧪 **Early Detection of Dementia & Alzheimer’s** – ML for healthcare . Visit the repository for demonstration video
+- 🤖 **SimuCode** – Autonomous coding interview simulator . Visit www.simucode.xyz  
 
 ---
 
