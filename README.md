@@ -9,7 +9,7 @@ Belief: *“Every bug is an invitation to go deeper.”*
 
 ### 📂 Featured Projects
 
-#### 🧠 [Dementia & Alzheimer’s Early Detection](https://github.com/SohamBEGINS)
+#### 🧠 [Dementia & Alzheimer’s Early Detection](https://github.com/SohamBEGINS/Alzheimer_Dementia_Diagnosis)
 * **Tech:** Python, Deep Learning, MRI Image Processing.
 * Achieved **95.8% precision** in diagnostic modeling. Awarded "Best AI Hack" for clinical inference application.
 
