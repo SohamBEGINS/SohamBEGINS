@@ -11,7 +11,8 @@ Belief: *“Every bug is an invitation to go deeper.”*
 - **Early Detection of Dementia & Alzheimer’s** – Machine Learning for healthcare . Visit the repository for demonstration video
 -  **SimuCode** – Autonomous coding interview simulator . Visit www.simucode.xyz
 - **Analysing Depression Markers for Indian Society** - Analysed different markers of Depression stemming from Indian Society through machine learning
-- **Multi Agent System for Health Care** - Currently working on a project which lies in the intersection of FHIR , MCP and agentic workflow .  
+- **Multi Agent System for Health Care** - Currently working on a project which lies in the intersection of FHIR , MCP and agentic workflow .
+- **Analysing Pre-Fall Detection** - Currently working on a research project which focuses on improving benchmarks of sota models in pre-fall detection through semi and self supervised learning.
 
 ---
 
