@@ -2,18 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1ABC9C&center=false&vCenter=false&width=650&lines=Data+Science;Algorithms+%7C+Machine+Learning+%7C+AI;Building+Mindsets+as+Much+as+Models)](https://git.io/typing-svg)  
 
-🚀 Passionate about **algorithms, systems thinking, and technical elegance**  
-🧠 Belief: *“Every bug is an invitation to go deeper.”*  
+Passionate about **algorithms, systems thinking, and technical elegance**  
+Belief: *“Every bug is an invitation to go deeper.”*  
 
 ---
 
-## 🔭 Current Projects  
-- 🧪 **Early Detection of Dementia & Alzheimer’s** – ML for healthcare . Visit the repository for demonstration video
-- 🤖 **SimuCode** – Autonomous coding interview simulator . Visit www.simucode.xyz  
+## Current Projects  
+- **Early Detection of Dementia & Alzheimer’s** – Machine Learning for healthcare . Visit the repository for demonstration video
+-  **SimuCode** – Autonomous coding interview simulator . Visit www.simucode.xyz
+- **Analysing Depression Markers for Indian Society** - Analysed different markers of Depression stemming from Indian Society through machine learning
+- **Multi Agent System for Health Care** - Currently working on a project which lies in the intersection of FHIR , MCP and agentic workflow .  
 
 ---
 
-## 🌌 Interests  
+##  Interests  
 - Data Science & Machine Learning Operations 
 - Generative Models & Human Reasoning    
 
