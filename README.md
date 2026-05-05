@@ -21,7 +21,7 @@ Belief: *“Every bug is an invitation to go deeper.”*
 * **Tech:** FHIR Standards, MCP (Model Context Protocol), Agentic Workflows.
 * Streamlining healthcare interoperability using intelligent agents to manage patient data lifecycles.
 
-#### 📊 [Depression Markers in Indian Society]
+#### 📊 [Depression Markers in Indian Society](https://github.com/SohamBEGINS/Depression_Markers_in_Indian_Society)
 * **Tech:** NLP, BERTopic, Gemma-2-9B.
 * Refined a unique dataset from Reddit to analyze sociological stressors. Published on Kaggle for open research.
 * 📂 **[Dataset Link](https://www.kaggle.com/datasets/parthanimesh/reddit-posts-on-depression-in-indian-society)** (27+ Downloads | 200+ Views)
