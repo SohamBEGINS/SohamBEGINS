@@ -7,13 +7,25 @@ Belief: *“Every bug is an invitation to go deeper.”*
 
 ---
 
-## Current Projects  
-- **Early Detection of Dementia & Alzheimer’s** – Machine Learning for healthcare . Visit the repository for demonstration video
--  **SimuCode** – Autonomous coding interview simulator . Visit www.simucode.xyz
-- **Analysing Depression Markers for Indian Society** - Analysed different markers of Depression stemming from Indian Society through machine learning
-- **Multi Agent System for Health Care** - Currently working on a project which lies in the intersection of FHIR , MCP and agentic workflow .
-- **Analysing Pre-Fall Detection** - Currently working on a research project which focuses on improving benchmarks of sota models in pre-fall detection through semi and self supervised learning.
+### 📂 Featured Projects
 
+#### 🧠 [Dementia & Alzheimer’s Early Detection](https://github.com/SohamBEGINS)
+* **Tech:** Python, Deep Learning, MRI Image Processing.
+* Achieved **95.8% precision** in diagnostic modeling. Awarded "Best AI Hack" for clinical inference application.
+
+#### 🤖 [SimuCode](https://www.simucode.xyz)
+* **Tech:** Multi-Agent Architecture, WebRTC, Gemini API.
+* An autonomous coding interview simulator featuring real-time voice interaction and behavioral evaluation.
+
+#### 🏥 [Multi-Agent Health Ecosystem]
+* **Tech:** FHIR Standards, MCP (Model Context Protocol), Agentic Workflows.
+* Streamlining healthcare interoperability using intelligent agents to manage patient data lifecycles.
+
+#### 📊 [Depression Markers in Indian Society]
+* **Tech:** NLP, BERTopic, Gemma-2-9B.
+* Refined a unique dataset from Reddit to analyze sociological stressors. Published on Kaggle for open research.
+* 📂 **[Dataset Link](https://www.kaggle.com/datasets/parthanimesh/reddit-posts-on-depression-in-indian-society)** (27+ Downloads | 200+ Views)
+* Kaggle notebook which used the dataset to build the depression marker project will be uploaded soon
 ---
 
 ##  Interests  
