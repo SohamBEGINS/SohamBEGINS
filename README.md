@@ -9,19 +9,19 @@ Belief: *“Every bug is an invitation to go deeper.”*
 
 ### 📂 Featured Projects
 
-#### 🧠 [Dementia & Alzheimer’s Early Detection](https://github.com/SohamBEGINS/Alzheimer_Dementia_Diagnosis)
+#### [Dementia & Alzheimer’s Early Detection](https://github.com/SohamBEGINS/Alzheimer_Dementia_Diagnosis)
 * **Tech:** Python, Deep Learning, MRI Image Processing.
 * Achieved **95.8% precision** in diagnostic modeling. Awarded "Best AI Hack" for clinical inference application.
 
-#### 🤖 [SimuCode](https://www.simucode.xyz)
+#### [SimuCode](https://www.simucode.xyz)
 * **Tech:** Multi-Agent Architecture, WebRTC, Gemini API.
 * An autonomous coding interview simulator featuring real-time voice interaction and behavioral evaluation.
 
-#### 🏥 [Multi-Agent Health Ecosystem]
+#### [Multi-Agent Health Ecosystem]
 * **Tech:** FHIR Standards, MCP (Model Context Protocol), Agentic Workflows.
 * Streamlining healthcare interoperability using intelligent agents to manage patient data lifecycles.
 
-#### 📊 [Depression Markers in Indian Society](https://github.com/SohamBEGINS/Depression_Markers_in_Indian_Society)
+#### [Depression Markers in Indian Society](https://github.com/SohamBEGINS/Depression_Markers_in_Indian_Society)
 * **Tech:** NLP, BERTopic, Gemma-2-9B.
 * Refined a unique dataset from Reddit to analyze sociological stressors. Published on Kaggle for open research.
 * 📂 **[Dataset Link](https://www.kaggle.com/datasets/parthanimesh/reddit-posts-on-depression-in-indian-society)** (27+ Downloads | 200+ Views)
