@@ -7,7 +7,7 @@ Passionate about **algorithms, systems thinking, and technical elegance** Belief
 ### 📂 Featured Projects
 
 #### [Slot Guard](https://slot-guard.vercel.app/)
-* **Tech:** XGBoost, FastAPI, React, MLflow, Supabase , Github Actions
+* **Tech:** FastAPI, React, MLflow, Supabase , Github Actions
 * An enterprise-grade predictive logistics system designed to prevent hyperlocal delivery collisions using dynamic load forecasting and real-time demand-supply balancing.
 * 📂 **[Repository](https://github.com/SohamBEGINS/Slot-guard)**
 
