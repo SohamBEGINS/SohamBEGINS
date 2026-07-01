@@ -2,12 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1ABC9C&center=false&vCenter=false&width=650&lines=Data+Science;Algorithms+%7C+Machine+Learning+%7C+AI;Building+Mindsets+as+Much+as+Models)](https://git.io/typing-svg)  
 
-Passionate about **algorithms, systems thinking, and technical elegance**  
-Belief: *“Every bug is an invitation to go deeper.”*  
-
----
+Passionate about **algorithms, systems thinking, and technical elegance** Belief: *“Every bug is an invitation to go deeper.”* ---
 
 ### 📂 Featured Projects
+
+#### [Slot Guard](https://slot-guard.vercel.app/)
+* **Tech:** XGBoost, FastAPI, React, MLflow, Supabase , Github Actions
+* An enterprise-grade predictive logistics system designed to prevent hyperlocal delivery collisions using dynamic load forecasting and real-time demand-supply balancing.
+* 📂 **[Repository](https://github.com/SohamBEGINS/Slot-guard)**
 
 #### [Dementia & Alzheimer’s Early Detection](https://github.com/SohamBEGINS/Alzheimer_Dementia_Diagnosis)
 * **Tech:** Python, Deep Learning, MRI Image Processing.
@@ -59,4 +61,4 @@ Belief: *“Every bug is an invitation to go deeper.”*
 
 ---
 
-📍 **Jamshedpur, India** | 🌐 *Building mindsets as much as models*  
+📍 **Jamshedpur, India** | 🌐 *Building mindsets as much as models* ```
