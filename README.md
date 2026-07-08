@@ -11,7 +11,7 @@ Passionate about **algorithms, systems thinking, and technical elegance** Belief
 * An enterprise-grade predictive logistics system designed to prevent hyperlocal delivery collisions using dynamic load forecasting and real-time demand-supply balancing.
 * 📂 **[Repository](https://github.com/SohamBEGINS/Slot-guard)**
 
-#### [Dementia & Alzheimer’s Early Detection](https://github.com/SohamBEGINS/Alzheimer_Dementia_Diagnosis)
+#### [Dementia & Alzheimer’s Early Detection](https://samotar007-memocare.hf.space/)
 * **Tech:** Python, Deep Learning, MRI Image Processing.
 * Achieved **95.8% precision** in diagnostic modeling. Awarded "Best AI Hack" for clinical inference application.
 
