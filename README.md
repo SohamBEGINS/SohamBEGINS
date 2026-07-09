@@ -15,7 +15,7 @@ Passionate about **algorithms, systems thinking, and technical elegance** Belief
 * **Tech:** Python, Deep Learning, MRI Image Processing.
 * Achieved **95.8% precision** in diagnostic modeling. Awarded "Best AI Hack" for clinical inference application.
 
-#### [SimuCode](https://www.simucode.xyz)
+#### [SimuCode](https://simu-code-client.vercel.app/)
 * **Tech:** Multi-Agent Architecture, WebRTC, Gemini API.
 * An autonomous coding interview simulator featuring real-time voice interaction and behavioral evaluation.
 
